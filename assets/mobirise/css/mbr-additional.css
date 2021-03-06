@@ -693,6 +693,11 @@ a {
   padding-bottom: 8rem;
   background-image: url('https://clientenogit.github.io/rcm/banner-min.jpg');
 }
+@media (max-width: 900px){
+  .cid-sqE4VwVTa7 {
+    padding-bottom: 0rem !important;
+  }
+}
 .cid-sqE4VwVTa7 .row {
   flex-direction: row-reverse;
 }
@@ -762,6 +767,11 @@ a {
   padding-top: 5rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
+}
+@media (max-width: 900px){
+  .cid-sqIbYLONpV{
+    padding-bottom: 0rem;
+  }
 }
 .cid-sqIbYLONpV .paddingcorrigido {
   padding-bottom: 2px !important;
@@ -1565,6 +1575,11 @@ a {
   padding-bottom: 2rem;
   background-image: url('https://clientenogit.github.io/rcm/banner-min.jpg');
 }
+@media (max-width: 900px){
+  .cid-sqR9VED5UI{
+    background-position: 92% 50%;
+  }
+}
 .cid-sqR9VED5UI .mbr-overlay {
   background-color: #6393ea;
   opacity: 0.1;
@@ -2016,6 +2031,11 @@ a {
   padding-top: 5rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
+}
+@media (max-width: 900px){
+  .cid-sqQO6iDTsg{
+    padding-bottom: 0rem;
+  }
 }
 .cid-sqQO6iDTsg .paddingcorrigido {
   padding-bottom: 2px !important;
