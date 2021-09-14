@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Consignado",
-    "currentPage": "index.html",
+    "currentPage": "simulacao.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -58,7 +58,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x90-1.png",
-    "mbrsiteDomain": "7tu16tyuxz",
+    "mbrsiteDomain": "9bwsbudebx",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
